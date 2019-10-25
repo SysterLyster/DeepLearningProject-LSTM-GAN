@@ -1,0 +1,6 @@
+data/
+pdf/
+.vscode/
+XML/
+*.mid
+.DS_Store
